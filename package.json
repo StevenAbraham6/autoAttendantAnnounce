@@ -1,0 +1,24 @@
+{
+  "name": "autoattendantannounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenAbraham6/autoAttendantAnnounce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenAbraham6/autoAttendantAnnounce/issues"
+  },
+  "homepage": "https://github.com/StevenAbraham6/autoAttendantAnnounce#readme",
+  "dependencies": {
+    "airtable": "^0.9.0",
+    "moment-timezone": "^0.5.31",
+    "webex": "^1.89.1"
+  }
+}
